@@ -7,9 +7,9 @@ function begin(){
     nd.style.width = '800px';
     nd.style.height = '200px';
     nd.style.display = 'Absolute';
-    nd.style.marginTop = '50rem';
-    nd.style.opacity = '0.15';
-    nd.style.marginLeft = '500px';
+    nd.style.marginTop = '150px';
+    nd.style.opacity = '0.2';
+    nd.style.marginLeft = '350px';
     document.body.appendChild(nd);
 }
 begin();
